@@ -10,6 +10,42 @@ Our goal is to create a platform that provides an exceptional gaming experience 
 - JUnit - Testing framework
 - React
 
+## GRID Demo Video
+
+Check out our demo video showcasing the main features of the GRID project:
+
+### Main Page
+
+https://github.com/user-attachments/assets/540fdc0d-b89e-4ab5-b09a-98554d3e0f59
+
+### AI Chat Consultant
+
+https://github.com/user-attachments/assets/48e87a2d-fe04-44a7-b9c8-6060a6840901
+
+### Authentication, Authorization 
+
+https://github.com/user-attachments/assets/759e81ef-abc9-462f-bc86-2146ac7ed2e6
+
+### Payment Abilities
+
+https://github.com/user-attachments/assets/8648e341-3ea2-4f1c-968f-13e65f6395f2
+
+
+The demo includes:
+- Overview of the main page
+- AI-powered chat consultant using Vertext Gemini
+- Registration and authorization process with Keycloak
+- Payment integration with Stripe and PayPal
+- Admin panel walkthrough
+
+## Features
+
+- **AI Chat Consultant**: Powered by Vertext Gemini, providing intelligent customer support.
+- **Secure Authentication**: Implemented using Keycloak for robust user management.
+- **Multiple Payment Options**: Integrated with Stripe and PayPal for flexible payment processing.
+- **Admin Panel**: Comprehensive admin interface for easy management of the platform with a help of Astro.js and Spring Boot
+
+
 ### Getting Started
 #### Backend
 This application requires pre-installed [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or higher. [See more.](https://www.oracle.com/java/technologies/downloads/#jdk19-windows)
